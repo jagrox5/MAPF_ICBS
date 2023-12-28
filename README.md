@@ -2,12 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/shambhurajmane/ROS2_Grid_Search_Algorithms">View Demo</a>
-  ·
-  <a href="https://github.com/shambhurajmane/ROS2_Grid_Search_Algorithms/issues">Report Bug</a>
-  </p>
-</div>
+
 
 
 
