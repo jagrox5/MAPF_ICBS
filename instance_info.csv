@@ -1,0 +1,12 @@
+Instance_File,Nodes_Generated_Standard,Nodes_Expanded_Standard,CPU_Time_Standard,Nodes_Generated_Disjoint,Nodes_Expanded_Disjoint,CPU_Time_Disjoint
+test_2.txt,1,1,0.0,1,1,0.0
+test_3.txt,2,2,0.0,2,2,0.0
+test_4.txt,2,2,0.0,2,2,0.0
+test_5.txt,1,1,0.0,1,1,0.0
+test_7.txt,33,21,0.046875,36,22,0.0
+test_10.txt,17,12,0.015625,16,10,0.0
+test_13.txt,93,55,0.3125,100,58,0.21875
+test_15.txt,32,20,0.15625,32,20,0.140625
+test_17.txt,155,96,0.40625,164,101,0.375
+test_20.txt,41,32,0.0625,31,22,0.03125
+test_25.txt,4412,2737,15.671875,6294,3867,1032.03125
