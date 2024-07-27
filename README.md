@@ -123,7 +123,7 @@ Don't forget to give the project a star! Thanks again!
 
 Name - Anuj Jagetia - ajagetia@wpi.edu
 
-Project Link: [https://github.com/shambhurajmane](https://github.com/shambhurajmane)
+Project Link: [https://github.com/jagrox5/MAPF_ICBS/](https://github.com/jagrox5/MAPF_ICBS/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
